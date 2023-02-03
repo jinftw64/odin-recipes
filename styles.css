@@ -9,7 +9,8 @@
 .recipe-link {
   background-color: rgb(67, 128, 224);
   font-family: "DejaVu Sans", "Times New Roman", sans-serif;
-  color:rgb(2, 48, 13)
+  color:rgb(2, 48, 13);
+  font-size: 24px;
 }
 
 .veggie {

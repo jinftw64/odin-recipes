@@ -1,0 +1,35 @@
+body {
+  font-family: "DejaVu Sans", "Times New Roman", sans-serif;
+}
+
+.main-header {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: auto;
+}
+
+.sub-header {
+  width: 50%;
+  margin: auto;
+  font-size: 30px;
+}
+
+.description-text {
+  width: 50%;
+  font-size: 18px;
+}
+
+.ingredient-list,
+.step-list {
+  width: 50%;
+  font-size: 22px;
+}
