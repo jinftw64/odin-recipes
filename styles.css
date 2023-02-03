@@ -3,4 +3,15 @@
   color: rgb(255, 165, 0);
   width: 50%;
   text-align: center;
+  margin: auto;
+}
+
+.recipe-link {
+  background-color: rgb(67, 128, 224);
+  font-family: "DejaVu Sans", "Times New Roman", sans-serif;
+  color:rgb(2, 48, 13)
+}
+
+.veggie {
+  background-color:rgb(40, 184, 162);
 }
